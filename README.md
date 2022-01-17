@@ -10,7 +10,6 @@
 ### 🔭 I’m currently working on ... 
 - Some [personal projects](https://github.com/zerok1986?tab=repositories)
 
-----
 
 ### 🌱 I’m currently learning ...
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
