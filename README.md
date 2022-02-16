@@ -8,6 +8,7 @@
 - frik: [Demo](https://frik-app.herokuapp.com/) - [GitHub](https://github.com/zerok1986/Frik-Project)
 
 ### 🔭 I’m currently working on ... 
+- [RITMO](https://www.getritmo.com)
 - Some [personal projects](https://github.com/zerok1986?tab=repositories)
 
 
