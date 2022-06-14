@@ -8,17 +8,17 @@
 - frik: [Demo](https://frik-app.herokuapp.com/) - [GitHub](https://github.com/zerok1986/Frik-Project)
 
 ### 🔭 I’m currently working on ... 
-- [RITMO](https://www.getritmo.com)
+- [GFT](https://www.gft.com)
 - Some [personal projects](https://github.com/zerok1986?tab=repositories)
 
 
 ### 🌱 I’m currently learning ...
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
 ### 📫 How to reach me ... 
