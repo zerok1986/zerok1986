@@ -28,9 +28,9 @@
 
 
 ### :octocat: GitHub Stats
-![zerok1986's Stats](https://github-readme-stats.vercel.app/api?username=zerok1986&show_icons=true&&theme=blue-green)
+![zerok1986's Stats](https://github-readme-stats.vercel.app/api?username=zerok1986&show_icons=true&theme=blue-green)
 
-![zerok1986's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerok1986&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerok1986&layout=compact&theme=blue-green)
 
 ![zerok1986's github streak](https://github-readme-streak-stats.herokuapp.com/?user=zerok1986&theme=blue-green)
 
