@@ -32,5 +32,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerok1986&layout=compact&theme=blue-green)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=zerok1986&theme=dark)
-
